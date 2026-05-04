@@ -17,8 +17,8 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 
 ## 🧩 Current system layers
 
-* **Blueprint OS** — a local-first operating system for building real work
-* **Distribution Systems** — infrastructure for turning ideas into durable, multi-platform outputs
+* **Blueprint OS** - a local-first operating system for building real work
+* **Distribution Systems** - infrastructure for turning ideas into durable, multi-platform outputs
 
 ## 🧭 Philosophy
 
