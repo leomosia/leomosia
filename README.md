@@ -27,8 +27,7 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 * systems outlast effort
 * foundation before scale
 
-I build slowly, deliberately, and for the long term.
-Most repositories here aren’t standalone products, they’re components of larger systems being designed, tested, and refined in public.
+_I build slowly, deliberately, and for the long term._ 
 
 ## ⚙️ Stack
 
