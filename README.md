@@ -2,7 +2,7 @@ Hi, I’m Leo Mosia 👋
 
 📍 Cape Town | 🧠 systems architect | 🛠️ independent builder
 
-I operate as both man and mechanism — a living R&D system that turns thought into structure, and structure into usable, scalable outputs.
+I operate as both man and mechanism, a living R&D system that turns thought into structure, and structure into usable, scalable outputs.
 
 ### 🔁 My work follows a simple loop
 
@@ -12,7 +12,7 @@ I operate as both man and mechanism — a living R&D system that turns thought i
 * **Design:** turn insight into frameworks and systems
 * **Replicate:** build tools, platforms, and infrastructure that scale those systems
 
-> I don’t build isolated projects.
+> I don’t build isolated projects.   
 > I build interconnected systems — where ideas become frameworks, frameworks become tools, and tools become long-term assets.
 
 ## 🧩 Current system layers
@@ -28,13 +28,11 @@ I operate as both man and mechanism — a living R&D system that turns thought i
 * foundation before scale
 
 I build slowly, deliberately, and for the long term.
-
-Most repositories here aren’t standalone products —
-they’re components of larger systems being designed, tested, and refined in public.
+Most repositories here aren’t standalone products, they’re components of larger systems being designed, tested, and refined in public.
 
 ## ⚙️ Stack
 
-The best tool for the task wins.
+The best tool for the task wins.   
 I choose technologies based on the problem, the constraints, and long-term maintainability — not trends.
 
 ---
