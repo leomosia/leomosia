@@ -1,4 +1,4 @@
-Hi, I’m Leo Mosia 👋
+Hi, I’m Leo 👋
 
 📍 Cape Town | 🧠 systems architect | 🛠️ independent builder
 
