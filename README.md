@@ -1,4 +1,4 @@
-Hi, I’m Leo Mosia 👋
+Hi, I’m Leo 👋
 
 📍 Cape Town | 🧠 systems architect | 🛠️ independent builder
 
@@ -17,8 +17,8 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 
 ## 🧩 Current system layers
 
-* **Blueprint OS** — a local-first operating system for building real work
-* **Distribution Systems** — infrastructure for turning ideas into durable, multi-platform outputs
+* **Blueprint OS** - a local-first operating system for building real work
+* **Distribution Systems** - infrastructure for turning ideas into durable, multi-platform outputs
 
 ## 🧭 Philosophy
 
@@ -27,15 +27,9 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 * systems outlast effort
 * foundation before scale
 
-I build slowly, deliberately, and for the long term.
-Most repositories here aren’t standalone products, they’re components of larger systems being designed, tested, and refined in public.
+_I build slowly, deliberately, and for the long term._ 
 
 ## ⚙️ Stack
 
 The best tool for the task wins.   
 I choose technologies based on the problem, the constraints, and long-term maintainability not trends.
-
----
-
-This isn’t a portfolio.
-It’s an active system under construction.
