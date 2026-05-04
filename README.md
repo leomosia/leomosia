@@ -34,8 +34,3 @@ Most repositories here aren’t standalone products, they’re components of lar
 
 The best tool for the task wins.   
 I choose technologies based on the problem, the constraints, and long-term maintainability not trends.
-
----
-
-This isn’t a portfolio.
-It’s an active system under construction.
