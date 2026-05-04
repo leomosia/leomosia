@@ -13,7 +13,7 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 * **Replicate:** build tools, platforms, and infrastructure that scale those systems
 
 > I don’t build isolated projects.   
-> I build interconnected systems — where ideas become frameworks, frameworks become tools, and tools become long-term assets.
+> I build interconnected systems where ideas become frameworks, frameworks become tools, and tools become long-term assets.
 
 ## 🧩 Current system layers
 
@@ -33,7 +33,7 @@ Most repositories here aren’t standalone products, they’re components of lar
 ## ⚙️ Stack
 
 The best tool for the task wins.   
-I choose technologies based on the problem, the constraints, and long-term maintainability — not trends.
+I choose technologies based on the problem, the constraints, and long-term maintainability not trends.
 
 ---
 
