@@ -1,8 +1,8 @@
 Hi, I’m Leo 👋
 
-📍 Cape Town | 🧠 systems architect | 🛠️ independent builder
+📍 Cape Town | 🧠 Systems Architect | 🛠️ Independent Builder
 
-I operate as both man and mechanism, a living R&D system that turns thought into structure, and structure into usable, scalable outputs.
+I spend my time turning ideas into systems, and systems into things that people can actually use.
 
 ### 🔁 My work follows a simple loop
 
@@ -12,13 +12,13 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 * **Design:** turn insight into frameworks and systems
 * **Replicate:** build tools, platforms, and infrastructure that scale those systems
 
-> I don’t build isolated projects.   
+> I don’t build isolated projects.
 > I build interconnected systems where ideas become frameworks, frameworks become tools, and tools become long-term assets.
 
-## 🧩 Current system layers
+## 🧩 Current Focus
 
-* **Blueprint OS** - a local-first operating system for building real work
-* **Distribution Systems** - infrastructure for turning ideas into durable, multi-platform outputs
+* **Blueprint OS** — a local-first operating system for building real work
+* **Distribution Systems** — infrastructure for turning ideas into durable, multi-platform outputs
 
 ## 🧭 Philosophy
 
@@ -27,9 +27,10 @@ I operate as both man and mechanism, a living R&D system that turns thought into
 * systems outlast effort
 * foundation before scale
 
-_I build slowly, deliberately, and for the long term._ 
+I build slowly, deliberately, and for the long term.
 
 ## ⚙️ Stack
 
-The best tool for the task wins.   
-I choose technologies based on the problem, the constraints, and long-term maintainability not trends.
+The best tool for the task wins.
+
+I choose technologies based on the problem, the constraints, and long-term maintainability—not trends.
