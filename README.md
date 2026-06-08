@@ -17,8 +17,7 @@ I spend my time turning ideas into systems, and systems into things that people 
 
 ## 🧩 Current Focus
 
-* **Blueprint OS** — a local-first operating system for building real work
-* **Distribution Systems** — infrastructure for turning ideas into durable, multi-platform outputs
+* ....
 
 ## 🧭 Philosophy
 
