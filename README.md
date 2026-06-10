@@ -1,6 +1,6 @@
 Hi, I’m Leo 👋
 
-📍 Cape Town | 🛠️ Independent Builder
+🛠️ Independent Builder |📍 Cape Town
 
 I spend my time turning ideas into systems, and systems into things that people can actually use.
 
