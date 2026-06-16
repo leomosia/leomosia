@@ -12,9 +12,6 @@ I spend my time turning ideas into systems, and systems into things that people 
 * **Design:** turn insight into frameworks and systems
 * **Replicate:** build tools, platforms, and infrastructure that scale those systems
 
-> I don’t build isolated projects.
-> I build interconnected systems where ideas become frameworks, frameworks become tools, and tools become long-term assets.
-
 ## 🧩 Current Focus
 
 * ....
