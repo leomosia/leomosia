@@ -24,8 +24,6 @@ I spend my time turning ideas into systems, and systems into things that people 
 * systems outlast effort
 * foundation before scale
 
-I build slowly, deliberately, and for the long term.
-
 ## ⚙️ Stack
 
 The best tool for the task wins.
