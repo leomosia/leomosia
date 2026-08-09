@@ -6,11 +6,11 @@ I spend my time turning ideas into systems, and systems into things that people 
 
 ### My work follows a simple loop
 
-**Think** → **Design** → **Replicate**
+**Think** → **Design** → **Build**
 
-* **Think:** observe patterns, tensions, and reality as it is
-* **Design:** turn insight into frameworks and systems
-* **Replicate:** build tools, platforms, and infrastructure that scale those systems
+* **Think:** observe patterns, tensions, problems, and reality as it is
+* **Design:** turn insight into models, frameworks, structures, systems, and deliberate ways of doing things
+* **Build:** turn those designs into tools, platforms, processes, infrastructure, and real-world applications
 
 ## Philosophy
 
