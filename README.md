@@ -14,10 +14,10 @@ I spend my time turning ideas into systems, and systems into things that people 
 
 ## Philosophy
 
+* foundation before scale
 * structure creates clarity
 * depth compounds over time
 * systems outlast effort
-* foundation before scale
 
 ## Current Focus
 
