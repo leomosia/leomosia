@@ -1,8 +1,8 @@
-Hi, I’m Leo 👋
+# Hi, I’m Leo 👋
 
-🛠️ Independent Builder |📍 Cape Town
+🛠️ **Independent Builder** | 📍 Cape Town
 
-I spend my time turning ideas into systems, and systems into things that people can actually use.
+I work from observations, problems, and ideas through to products, systems, and infrastructure. I spend my time thinking deeply about how things work, designing better ways of doing them, and building what needs to exist.
 
 ### My work follows a simple loop
 
@@ -21,11 +21,14 @@ I spend my time turning ideas into systems, and systems into things that people 
 
 ## Current Focus
 
-* **Calsports** (_Building_) A sports calendar product for following fixtures, teams, leagues, and athletes without hunting across apps.
-* **Blueprint OS** (_Testing_) A local-first workspace for capturing notes, structuring knowledge, and turning rough ideas into useful outputs.
+* **CalSports** — *Building*
+  A sports calendar platform for discovering fixtures and creating a personal sports calendar.
+
+* **Blueprint OS** — *Testing*
+  A local-first operating system built from folders, Markdown, templates, scripts, and repeatable working practices.
 
 ## Stack
 
-The best tool for the task wins.
+**The best tool for the task wins.**
 
-I choose technologies based on the problem, the constraints, and long-term maintainability, not trends.
+I choose technologies based on the problem, the constraints, and long-term maintainability — not trends.
