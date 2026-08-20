@@ -1,4 +1,4 @@
-Hi, I’m Leo 👋
+# Hi, I’m Leo 👋
 
 🛠️ **Independent Builder** | 📍 Cape Town
 
