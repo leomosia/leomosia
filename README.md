@@ -30,4 +30,4 @@ I work from observations, problems, and ideas through to products, systems, and 
 
 **The best tool for the task wins.**
 
-I choose technologies based on the problem, the constraints, and long-term maintainability - not trends.
+I choose technologies based on the problem, the constraints, and long-term maintainability, not trends.
