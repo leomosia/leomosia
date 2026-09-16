@@ -21,7 +21,7 @@ I work from observations, problems, and ideas through to products, systems, and 
 
 ## Current Focus
 
-* **CalSports** - *Building*      
+* **CalSports** - MVP *Live*      
   A sports calendar platform for discovering fixtures and creating a personal sports calendar.
 * **Blueprint OS** - *Testing*    
   A local-first operating system built from folders, Markdown, templates, scripts, and repeatable working practices.
